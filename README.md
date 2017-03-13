@@ -1,7 +1,7 @@
 # shiny-hello
 
 
-This is a R/Shiny example based on https://github.com/rstudio/shiny-examples
+This is a R/Shiny example based on https://github.com/rstudio/shiny-examples/tree/master/001-hello
 
 You should be able to deploy to Predix/Cloud Foundry as is.
 
